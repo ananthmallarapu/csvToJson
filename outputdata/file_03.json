@@ -1,0 +1,272 @@
+[
+   {
+      "deathrate": 22.423,
+      "birthrate": 42.107,
+      "year": "1960"
+   },
+   {
+      "deathrate": 21.877,
+      "birthrate": 41.865,
+      "year": "1961"
+   },
+   {
+      "deathrate": 21.337,
+      "birthrate": 41.602,
+      "year": "1962"
+   },
+   {
+      "deathrate": 20.8,
+      "birthrate": 41.317,
+      "year": "1963"
+   },
+   {
+      "deathrate": 20.267,
+      "birthrate": 41.013,
+      "year": "1964"
+   },
+   {
+      "deathrate": 19.739,
+      "birthrate": 40.696,
+      "year": "1965"
+   },
+   {
+      "deathrate": 19.217,
+      "birthrate": 40.374,
+      "year": "1966"
+   },
+   {
+      "deathrate": 18.703,
+      "birthrate": 40.057,
+      "year": "1967"
+   },
+   {
+      "deathrate": 18.199,
+      "birthrate": 39.747,
+      "year": "1968"
+   },
+   {
+      "deathrate": 17.706,
+      "birthrate": 39.447,
+      "year": "1969"
+   },
+   {
+      "deathrate": 17.224,
+      "birthrate": 39.15,
+      "year": "1970"
+   },
+   {
+      "deathrate": 16.752,
+      "birthrate": 38.847,
+      "year": "1971"
+   },
+   {
+      "deathrate": 16.29,
+      "birthrate": 38.529,
+      "year": "1972"
+   },
+   {
+      "deathrate": 15.84,
+      "birthrate": 38.193,
+      "year": "1973"
+   },
+   {
+      "deathrate": 15.403,
+      "birthrate": 37.842,
+      "year": "1974"
+   },
+   {
+      "deathrate": 14.985,
+      "birthrate": 37.491,
+      "year": "1975"
+   },
+   {
+      "deathrate": 14.59,
+      "birthrate": 37.156,
+      "year": "1976"
+   },
+   {
+      "deathrate": 14.222,
+      "birthrate": 36.852,
+      "year": "1977"
+   },
+   {
+      "deathrate": 13.881,
+      "birthrate": 36.58,
+      "year": "1978"
+   },
+   {
+      "deathrate": 13.569,
+      "birthrate": 36.334,
+      "year": "1979"
+   },
+   {
+      "deathrate": 13.283,
+      "birthrate": 36.098,
+      "year": "1980"
+   },
+   {
+      "deathrate": 13.023,
+      "birthrate": 35.85,
+      "year": "1981"
+   },
+   {
+      "deathrate": 12.783,
+      "birthrate": 35.565,
+      "year": "1982"
+   },
+   {
+      "deathrate": 12.556,
+      "birthrate": 35.227,
+      "year": "1983"
+   },
+   {
+      "deathrate": 12.336,
+      "birthrate": 34.828,
+      "year": "1984"
+   },
+   {
+      "deathrate": 12.116,
+      "birthrate": 34.366,
+      "year": "1985"
+   },
+   {
+      "deathrate": 11.887,
+      "birthrate": 33.844,
+      "year": "1986"
+   },
+   {
+      "deathrate": 11.647,
+      "birthrate": 33.281,
+      "year": "1987"
+   },
+   {
+      "deathrate": 11.395,
+      "birthrate": 32.694,
+      "year": "1988"
+   },
+   {
+      "deathrate": 11.131,
+      "birthrate": 32.095,
+      "year": "1989"
+   },
+   {
+      "deathrate": 10.858,
+      "birthrate": 31.498,
+      "year": "1990"
+   },
+   {
+      "deathrate": 10.581,
+      "birthrate": 30.912,
+      "year": "1991"
+   },
+   {
+      "deathrate": 10.307,
+      "birthrate": 30.343,
+      "year": "1992"
+   },
+   {
+      "deathrate": 10.043,
+      "birthrate": 29.794,
+      "year": "1993"
+   },
+   {
+      "deathrate": 9.793,
+      "birthrate": 29.267,
+      "year": "1994"
+   },
+   {
+      "deathrate": 9.563,
+      "birthrate": 28.766,
+      "year": "1995"
+   },
+   {
+      "deathrate": 9.352,
+      "birthrate": 28.286,
+      "year": "1996"
+   },
+   {
+      "deathrate": 9.161,
+      "birthrate": 27.822,
+      "year": "1997"
+   },
+   {
+      "deathrate": 8.986,
+      "birthrate": 27.365,
+      "year": "1998"
+   },
+   {
+      "deathrate": 8.828,
+      "birthrate": 26.911,
+      "year": "1999"
+   },
+   {
+      "deathrate": 8.684,
+      "birthrate": 26.459,
+      "year": "2000"
+   },
+   {
+      "deathrate": 8.553,
+      "birthrate": 26.004,
+      "year": "2001"
+   },
+   {
+      "deathrate": 8.433,
+      "birthrate": 25.547,
+      "year": "2002"
+   },
+   {
+      "deathrate": 8.32,
+      "birthrate": 25.087,
+      "year": "2003"
+   },
+   {
+      "deathrate": 8.213,
+      "birthrate": 24.622,
+      "year": "2004"
+   },
+   {
+      "deathrate": 8.109,
+      "birthrate": 24.146,
+      "year": "2005"
+   },
+   {
+      "deathrate": 8.005,
+      "birthrate": 23.653,
+      "year": "2006"
+   },
+   {
+      "deathrate": 7.901,
+      "birthrate": 23.144,
+      "year": "2007"
+   },
+   {
+      "deathrate": 7.8,
+      "birthrate": 22.625,
+      "year": "2008"
+   },
+   {
+      "deathrate": 7.7,
+      "birthrate": 22.103,
+      "year": "2009"
+   },
+   {
+      "deathrate": 7.606,
+      "birthrate": 21.595,
+      "year": "2010"
+   },
+   {
+      "deathrate": 7.52,
+      "birthrate": 21.116,
+      "year": "2011"
+   },
+   {
+      "deathrate": 7.446,
+      "birthrate": 20.679,
+      "year": "2012"
+   },
+   {
+      "deathrate": 7.385,
+      "birthrate": 20.291,
+      "year": "2013"
+   }
+]
